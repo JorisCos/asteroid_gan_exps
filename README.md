@@ -6,8 +6,9 @@ All experiments are conducted on [LibriMix](https://github.com/JorisCos/LibriMix
 # Installation
 
 ```bash
-pip install numpy Cython
-pip install asteroid
+git clone https://github.com/JorisCos/asteroid_gan_exps
+cd asteroid_gan_exps
+pip install -e .
 ```
 
 # Available recipes
